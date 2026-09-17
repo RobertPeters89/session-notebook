@@ -7,3 +7,11 @@
 7. git remote add origin SSH URL aus dem Repo einfügen
 8. git branch -m main
 9. git push -u origin main
+
+index.html auf GitHub (Repo) updaten
+
+1. GitBash öffnen richtigen Ordner öffnen
+2. git status
+3. git add index.html
+4. git commit -m "datei die geändert wurde"
+5. git push ODER git push -u origin main
